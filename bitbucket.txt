@@ -1,0 +1,4 @@
+cd /path/to/my/repo
+git remote add origin https://player99@bitbucket.org/player99/estydemo1.git
+git push -u origin --all # pushes up the repo and its refs for the first time
+git push origin --tags # pushes up any tags
